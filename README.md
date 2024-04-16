@@ -46,5 +46,3 @@ For any questions, issues, or feedback, please feel free to [open an issue]([htt
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
 ---
-
-**Note:** This README provides a brief overview of the Conference Paper Query Portal repository. For detailed documentation and usage instructions, please refer to the documentation files included in the repository.
