@@ -39,7 +39,7 @@ We welcome contributions from the community to enhance the functionality and usa
 
 ## Support and Feedback
 
-For any questions, issues, or feedback, please feel free to [open an issue](https://github.com/yourusername/conference-paper-query/issues) on GitHub. We appreciate your contributions and strive to make this project as useful and user-friendly as possible.
+For any questions, issues, or feedback, please feel free to [open an issue]([https://github.com/yourusername/conference-paper-query/issues](https://github.com/HCI4SouthAsia/LLM_University/issues)) on GitHub. We appreciate your contributions and strive to make this project as useful and user-friendly as possible.
 
 ## License
 
