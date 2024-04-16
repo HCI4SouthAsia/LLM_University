@@ -45,4 +45,6 @@ For any questions, issues, or feedback, please feel free to [open an issue]([htt
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
+For a detailed explanation of the code, you can watch [this video](https://www.youtube.com/watch?v=uB27FNuSPV0&t).
+
 ---
